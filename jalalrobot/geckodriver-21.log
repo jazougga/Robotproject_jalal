@@ -1,0 +1,9 @@
+1637838408391	geckodriver	INFO	Listening on 127.0.0.1:51089
+1637838411476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51090" "-no-remote" "-profile" "C:\\Users\\35266\\AppData\\Local\\Temp\\rust_mozprofileT929UY"
+1637838411836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\35266\\AppData\\Local\\Temp\\rust_mozprofileT929UY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51090/devtools/browser/4180b052-ce04-459a-be08-8a74d57c0b66
+1637838413743	Marionette	INFO	Listening on port 51096
+1637838414162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+1637838456810	Marionette	INFO	Stopped listening on port 51096
